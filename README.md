@@ -48,12 +48,6 @@ Business analytics project applying **time-series modelling and forecasting** to
 
 **Tools:** Python, Pandas, Statsmodels, Visualisation
 
----
-
-### Economic Growth & FDI Interaction (Nigeria vs South Africa)
-Econometric analysis using **ARDL modelling** to examine how FDI in manufacturing, agriculture, and services affects GDP growth.
-
-**Tools:** EViews, R, Econometric Modelling
 
 ---
 
@@ -94,7 +88,7 @@ I am particularly interested in roles within:
 
 ## Connect With Me
 
-- LinkedIn: *(https://www.linkedin.com/in/miracle-nmegwa)*  
-- Email: *(nmegwamiracle@gmail.com)*  
+- LinkedIn: [Miracle Nmegwa](https://www.linkedin.com/in/miracle-nmegwa)  
+- Email: [nmegwamiracle@gmail.com](nmegwamiracle@gmail.com)  
 
 ---
