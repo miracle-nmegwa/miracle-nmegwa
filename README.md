@@ -89,6 +89,6 @@ I am particularly interested in roles within:
 ## Connect With Me
 
 - LinkedIn: [Miracle Nmegwa](https://www.linkedin.com/in/miracle-nmegwa)  
-- Email: (nmegwamiracle@gmail.com)  
+- Email: nmegwamiracle@gmail.com  
 
 ---
