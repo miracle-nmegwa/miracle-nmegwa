@@ -135,8 +135,3 @@ Supervisor: Prof. Uche C. Nwogwugwu | uc.nwogwugwu@unizik.edu.ng
 
 Football, Music, Research, Traveling
 
----
-
-## REFERENCES
-
-Available upon request
