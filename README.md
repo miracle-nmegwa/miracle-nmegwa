@@ -23,15 +23,13 @@ I am an Analyst with experience in public-private partnerships, project evaluati
 
 This repository contains two versions of my CV:
 
-1. **[Academic CV](Academic_CV.md)** - Tailored for research positions, graduate programs, and academic opportunities
-2. **[Professional CV](Professional_CV.md)** - Optimized for industry roles, consulting positions, and professional opportunities
+1. **[Academic CV](Academic_CV.md)** 
+2. **[Professional CV](Professional_CV.md)** 
 
 ## Contact Information
 
 - **Email:** miraclenmegwa@gmail.com
-- **Phone:** +2347039233948
 - **LinkedIn:** [linkedin.com/in/miracle-nmegwa](https://www.linkedin.com/in/miracle-nmegwa)
-- **Location:** Anambra State, Nigeria
 
 ## Key Skills
 
