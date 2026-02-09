@@ -1,94 +1,51 @@
-# Miracle Nmegwa
+# Miracle Chimeremeze Nmegwa - Curriculum Vitae
 
-**Development Economist | Data Analyst | Policy & Investment Research**
+This repository contains the professional and academic CVs of Miracle Chimeremeze Nmegwa.
 
-I am a development economics graduate passionate about using **data, econometrics, and policy analysis** to address real-world challenges such as **poverty, migration, inequality, and investment development** in emerging economies.
+## About Me
 
-My work combines:
+I am an Analyst with experience in public-private partnerships, project evaluation, and development economics. I have a strong background in econometric modeling, data analytics, and policy research, with a focus on sustainable development and inclusive growth.
 
-- **Data analytics & visualisation**
-- **Econometric modelling**
-- **Policy and PPP research**
-- **Evidence-based development insights**
+## Education
 
----
+- **B.Sc. Economics** (Second Class Hons, Upper Division)
+- Nnamdi Azikiwe University, Awka, Nigeria (2023)
+- Class Rank: Top 15%
 
-## Key Interests
+## Research Interests
 
-- Development Economics  
-- Poverty, Inequality & Migration  
-- Public-Private Partnerships (PPP)  
-- Investment Promotion & Industrialisation  
-- Data-Driven Policy Design  
+- Migration's Impact on Poverty, Economic Growth and Development
+- Public-Private Partnerships and Infrastructure Development
+- Infrastructure Development on Inequality
+- Development Economics
 
----
+## CV Versions
 
-## Technical Skills
+This repository contains two versions of my CV:
 
-**Data & Econometrics**
-- R, Python, EViews, SPSS  
-- Time-series analysis, ARDL, regression modelling  
-- Forecasting & statistical inference  
+1. **[Academic CV](Academic_CV.md)** - Tailored for research positions, graduate programs, and academic opportunities
+2. **[Professional CV](Professional_CV.md)** - Optimized for industry roles, consulting positions, and professional opportunities
 
-**Data Tools**
-- Excel, SQL, Power BI  
-- Data cleaning, transformation, and visualisation  
+## Contact Information
 
-**Policy & Research**
-- Policy analysis and evaluation  
-- PPP and investment framework development  
-- Development research and reporting  
+- **Email:** miraclenmegwa@gmail.com
+- **Phone:** +2347039233948
+- **LinkedIn:** [linkedin.com/in/miracle-nmegwa](https://www.linkedin.com/in/miracle-nmegwa)
+- **Location:** Anambra State, Nigeria
 
----
+## Key Skills
 
-## Featured Projects
+- **Econometric Analysis:** Stata, EViews, SPSS
+- **Data Analytics:** R, Python, Power BI
+- **Microsoft Office Suite:** Advanced Excel, Word, PowerPoint
+- **Research:** Policy analysis, feasibility studies, econometric modeling
 
-### Adidas Sales Time-Series Forecasting
-Business analytics project applying **time-series modelling and forecasting** to retail sales data to generate strategic insights.
+## Professional Certifications
 
-**Tools:** Python, Pandas, Statsmodels, Visualisation
-
+- McKinsey Forward Program (2024)
+- Google Data Analytics (2022)
+- Financial Modeling Foundations (2022)
 
 ---
 
-### Migration and Economic Growth in Nigeria
-Undergraduate research exploring the **drivers and macroeconomic impact of migration** on Nigeria’s development trajectory.
-
----
-
-## Professional Experience
-
-**Anambra State Investment Promotion and Protection Agency (ANSIPPA)**  
-Worked on:
-
-- PPP and investment project evaluation  
-- Development of policy and investment frameworks  
-- Investor aftercare and facilitation strategies  
-- Contributions to FRILIA and state PPP documentation  
-
----
-
-## Career Vision
-
-My goal is to become a **leading development economist** working at the intersection of:
-
-- **data**
-- **policy**
-- **investment**
-- **sustainable development**
-
-I am particularly interested in roles within:
-
-- International development organisations  
-- Research institutes  
-- Government advisory and policy units  
-- Data-driven consulting  
-
----
-
-## Connect With Me
-
-- LinkedIn: [Miracle Nmegwa](https://www.linkedin.com/in/miracle-nmegwa)  
-- Email: nmegwamiracle@gmail.com  
-
----
+*Last Updated: February 2025*
