@@ -28,7 +28,7 @@ This repository contains two versions of my CV:
 
 ## Contact Information
 
-- **Email:** miraclenmegwa@gmail.com
+- **Email:** nmegwamiracle@gmail.com
 - **LinkedIn:** [linkedin.com/in/miracle-nmegwa](https://www.linkedin.com/in/miracle-nmegwa)
 
 ## Key Skills
